@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.venv/
+.env
+.env.*
+.DS_Store
+.vscode/
+__pycache__/
+*.py[cod]
+*.log
+package-lock.json
+*.sqlite3
